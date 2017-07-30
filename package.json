@@ -1,0 +1,20 @@
+{
+  "name": "venus-generator",
+  "version": "1.0.0",
+  "description": "Base generator for venus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Yeoman",
+    "Generator",
+    "Venus"
+  ],
+  "author": "Bowen Zhong",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "yeoman-generator": "^1.1.1"
+  }
+}
